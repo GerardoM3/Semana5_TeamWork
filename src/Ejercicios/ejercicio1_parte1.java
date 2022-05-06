@@ -76,11 +76,7 @@ public class ejercicio1_parte1 {
                          division = Div1 / Div2;
                          System.out.println("El resultado de la Division es: " +division);
                          break;
-                        
-                        
                 }
-                
-                
             }
         }
         
